@@ -101,6 +101,10 @@ main :first-child {
 	padding: 10px 20px;
 	margin: 10px auto;
 }
+.centers--block p {
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
 
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
