@@ -1,16 +1,17 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
+title: Центр підтримки ВПО "24" родини ШЕЛТЕР ПЛЮС
+description: Центр підтримки ВПО "24" Благодійного фонду "Шелтер Плюс" у Кривому Розі за адресою вулиця Маккейна, 24 
+date: 2023-04-19
 tags: second tag
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Актуальні можливості 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+- [Реєстрація на продуктові набори](https://www.notion.so/bebb2143e7864400946e82441bc6de19)
+- [Благодійна громадська пральня](https://www.notion.so/6cec36968dfa48b292fb8bbd120872d8)
+- [Благодійний хостел](https://www.notion.so/1-e5e56ec6972344f28a7c9d2511daa915)
+- Видача одягу та взуття
+- [ПРИЗУПИНЕНО] [Видача велосипедів для ВПО](https://forms.gle/xWdQzPmk76LYjd357)
 
-{% image "./possum.png", "A possum parent and two possum kids hanging from the iconic red balloon" %}
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
+<!-- 
+{% image "./possum.png", "A possum parent and two possum kids hanging from the iconic red balloon" %} -->
