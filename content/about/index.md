@@ -1,9 +1,15 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: Про проєкт
   order: 3
 ---
-# About Me
+# Про проєкт VPO.WIKI
 
-I am a person that writes stuff.
+Вся інформація взята з відкритих джерел. 
+
+...якщо інформація щодо вашої організації застаріла, напишіть на пошту kthopos@hey.com
+
+...якщо вашої організації/церкви немає в списку, будь ласка, напишіть на пошту kthopos@hey.com
+
+...якщо ви побачили помилки, будь ласка, напишіть на пошту kthopos@hey.com
