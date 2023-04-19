@@ -11,12 +11,8 @@ date: 2023-04-19
 
 ## Оберіть зручний для вас день:
 
-[Понеділок: 17 квітня](https://www.notion.so/17-19e82a686f08407cb5e5bffed3fb66bd)
-
+[Понеділок: 17 квітня](/center/vpo24/ponedilok)
 [Вівторок: 18 квітня](https://www.notion.so/18-79021e89f6954fbf8501e2d1efc22388)
-
 [Середа: 19 квітня](https://www.notion.so/19-ac0d1308e9c74749b48dcd6dc702c265)
-
 [Четвер: 20 квітня](https://www.notion.so/20-806b7c6169f9434a87439de66077d6d6)
-
 [П’ятниця: 21 квітня](https://www.notion.so/21-41f93a697b5f466ba80052f7a2e9bb9f)
