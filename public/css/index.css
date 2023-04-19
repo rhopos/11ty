@@ -97,7 +97,7 @@ main :first-child {
 }
 
 .centers--block {
-	border-bottom: 1px dashed var(--color-gray-20);
+	border: 1px dashed var(--color-gray-20);
 	padding: 10px 20px;
 	margin: 10px auto;
 }
