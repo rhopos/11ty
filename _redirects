@@ -1,11 +1,2 @@
-[[redirects]]
-  from = "/old-path"
-  to = "/new-path"
-  status = 301
-  force = false
-  query = {path = ":path"} #  apply this rule for /old-path?path=example
-  conditions = {Language = ["en","es"], Country = ["US"]}
-
-[[redirects]]
-  from = "/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"
-  to = "/center/vpo24/reyestraciya/"
+# Redirect with a 301
+/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"         /center/vpo24/reyestraciya/              301
