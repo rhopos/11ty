@@ -96,6 +96,12 @@ main :first-child {
 	margin-top: 0;
 }
 
+.centers--block {
+	border-bottom: 1px dashed var(--color-gray-20);
+	padding: 10px 20px;
+	margin: 10px auto;
+}
+
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
 }
