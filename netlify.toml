@@ -22,3 +22,9 @@
 
 	[plugins.inputs]
 		output_path = "reports/lighthouse/index.html"
+
+[[redirects]]
+  from = "/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"
+  to = "/center/vpo24/reyestraciya/"
+  status = 301
+
