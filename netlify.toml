@@ -2,6 +2,14 @@
 	publish = "_site"
 	command = "npm run build"
 
+[[redirects]]
+  from = "https://vpo.wiki/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"
+  to = "https://vpo.wiki//center/vpo24/reyestraciya/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["uk"], Country = ["UA"], Role = ["admin"]}
+
 [[plugins]]
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
@@ -22,9 +30,4 @@
 
 	[plugins.inputs]
 		output_path = "reports/lighthouse/index.html"
-
-[[redirects]]
-  from = "/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"
-  to = "/center/vpo24/reyestraciya/"
-  status = 301
 
