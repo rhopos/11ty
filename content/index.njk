@@ -1,11 +1,51 @@
 ---
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Home
+  key: Домашня
   order: 1
 numberOfLatestPostsToShow: 3
 ---
-{% set postsCount = collections.posts | length %}
+<h1>Центри гуманітарної допомоги для ВПО</h1>
+<ul>
+	<li>
+		<a href="https://idp-kr.notion.site/352834de0eb340688e731ded74f68835">
+			Тернівський район
+		</a>
+	</li>
+	<li>
+		<a href="https://idp-kr.notion.site/bbf2260075884b8f800780c038d9a365">
+			Покровський район
+		</a>
+	</li>
+	<li>
+		<a href="https://idp-kr.notion.site/e3c133dc702f4705afa342f52662d63e">
+			Саксаганський район
+		</a>
+	</li>
+	<li>
+		<a href="https://idp-kr.notion.site/d8caeb0976f043cab553186b1241a799">
+			Центрально-міський район
+		</a>
+	</li>
+	<li>
+		<a href="https://idp-kr.notion.site/8756d8c515b5490bb04cd02e6e990a65">
+			Металургійний район
+		</a>
+	</li>
+	<li>
+		<a href="https://idp-kr.notion.site/45a1255b45f64280ac30afacc5772164">
+			Довгинцівський район
+		</a>
+	</li>
+	<li>
+		<a href="https://idp-kr.notion.site/00d328dd8f184e8aad531d3c647adde3">
+			Інгулецький район
+		</a>
+	</li>
+
+</ul>
+
+{# {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
@@ -16,7 +56,7 @@ numberOfLatestPostsToShow: 3
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %}
+{% endif %} #}
 
 {# List every content page in the project #}
 {#

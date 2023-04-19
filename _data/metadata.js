@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
-	url: "https://example.com/",
-	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	title: "Гуманітарні центри ВПО",
+	url: "https://vpo.wiki/",
+	language: "uk",
+	description: "Перелік гуманітарних центрів, громадських організацій, райвиконкомів та інших місць де можна отримати соціальну та гуманітарну допомогу для ВПО в Кривому Розі",
 	author: {
 		name: "Your Name Here",
 		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		url: "https://vpo.wiki/about/"
 	}
 }
