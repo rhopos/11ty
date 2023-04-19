@@ -3,8 +3,8 @@
 	command = "npm run build"
 
 [[redirects]]
-  from = "https://vpo.wiki/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"
-  to = "https://vpo.wiki//center/vpo24/reyestraciya/"
+  from = "/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19"
+  to = "/center/vpo24/reyestraciya/"
   status = 301
   force = false
   query = {path = ":path"}
