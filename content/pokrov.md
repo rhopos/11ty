@@ -1,4 +1,6 @@
 ---
+data: collections
+layout: layouts/home.njk
 title: Покровський район. Гуманітарні центри
 description: This is a post on My Blog about leveraging agile frameworks.
 ---
