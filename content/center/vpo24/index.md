@@ -8,11 +8,18 @@ tags:
 
 <div class="centers--block">
 
-Телефон: <a href="tel:0677277830">0677277830</a>
+<!-- Телефон: <a href="tel:0677277830">0677277830</a>
 
 Адреса: [вул. Джона Маккейна, 24](https://goo.gl/maps/LjhkFUZHJuaAuEKt9) (Армавірська, 24)
 
-Джерела інформації: [Facebook](https://fb.com/supportcenter24) / [Telegram](https://t.me/centervpo24) 
+Джерела інформації: [Facebook](https://fb.com/supportcenter24) / [Telegram](https://t.me/centervpo24)  -->
+
+|   |   |
+|---|---|
+| Телефон  | <a href="tel:0677277830">0677277830</a>   |
+|Адреса | [вул. Джона Маккейна, 24](https://goo.gl/maps/LjhkFUZHJuaAuEKt9) (Армавірська, 24)  |
+|Джерела інформації:   |  [Facebook](https://fb.com/supportcenter24) / [Telegram](https://t.me/centervpo24) |
+
 
 </div>
 
