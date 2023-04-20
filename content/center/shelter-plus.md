@@ -6,11 +6,15 @@ date: 2023-04-02
 tags:
   - Покровський район
 ---
+
+
 <div class="centers--block">
 
-Адреса: [вул. Джона Маккейна, 28](https://goo.gl/maps/tcmxoSjgXFSTk2dG6) (Армавірська, 28)
-
-Джерела інформації: [Facebook](https://facebook.com/shelterplus.ua/) / [Instagram](https://www.instagram.com/shelterplus/) / [Telegram](https://t.me/shelterplus_ua) / [Сайт](https://shelter-plus.com/)
+|   |   |
+|---|---|
+|Графік роботи   |  понеділок-субота 10:00-18:00 |
+|Адреса | [вул. Джона Маккейна, 28](https://goo.gl/maps/tcmxoSjgXFSTk2dG6) (Армавірська, 28)  |
+|Інформація | [Facebook](https://facebook.com/shelterplus.ua/) / [Instagram](https://www.instagram.com/shelterplus/) / [Telegram](https://t.me/shelterplus_ua) / [Сайт](https://shelter-plus.com/)  |
 
 </div>
 

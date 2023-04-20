@@ -5,6 +5,8 @@ date: 2023-04-17
 ---
 ## Понеділок: 17 квітня
 
+Слідкуйте за змінами: [Facebook](https://fb.com/supportcenter24) / [Telegram](https://t.me/centervpo24) 
+
 ### Оберіть зручний для вас час:
 - 🕒 [10:00-11:00](https://forms.gle/QNTwnZMdqrhPz7nC6) 
 - 🕒 [11:00-12:00](https://forms.gle/aG8TkKKxp5cSRGBq6)
