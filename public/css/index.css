@@ -106,6 +106,10 @@ main :first-child {
 	margin-bottom: 1px;
 }
 
+.centers--block td:nth-child(1) {
+    text-align: right;
+}
+
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
 }
