@@ -5,7 +5,7 @@ date: 2023-04-19
 ---
 <div class="centers--block">
 
-Телефон: <a href="tel:0979745967">0979745967</a>
+Телефон: <a href="tel:0677277830">0677277830</a>
 
 Адреса: [вул. Джона Маккейна, 24](https://goo.gl/maps/LjhkFUZHJuaAuEKt9) (Армавірська, 24)
 
