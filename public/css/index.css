@@ -247,11 +247,10 @@ a.none-decorate {
 	border: 1px dashed var(--color-gray-20); 
 	padding: 1.5rem;
 	border-radius: 1rem;
-	min-height: 158px;
+	min-height: 136px;
 }
 .grid > a > div:hover {
-	border: 3px solid #ee788b;
-	background: #F4ABB7;
+	border: 3px solid #bdc447;
 }
 
 /* Tags */
