@@ -258,7 +258,7 @@ a.none-decorate {
 		grid-template-columns: repeat(1, 1fr);
 	}
 	.grid > a > div {
-		min-height: 102px;
+		min-height: 72px;
 	}
 }
 
