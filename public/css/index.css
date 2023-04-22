@@ -234,6 +234,7 @@ header {
 	font-weight: bold;
 }
 
+/* Grid on main page */
 a.none-decorate {
 	text-decoration: none;
 }
@@ -250,7 +251,11 @@ a.none-decorate {
 	min-height: 136px;
 }
 .grid > a > div:hover {
-	border: 3px solid #bdc447;
+	border: 1px solid var(--color-gray-20); 
+}
+@media only screen and (max-device-width: 770px)
+.grid {
+    grid-template-columns: repeat(1, 1fr);
 }
 
 /* Tags */
