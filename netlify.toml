@@ -2,7 +2,7 @@
 	publish = "_site"
 	command = "npm run build"
 
-[[plugins]]
+# [[plugins]]
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 
@@ -11,7 +11,7 @@
 
 	# Read more: https://github.com/netlify/netlify-plugin-lighthouse
 
-	package = "@netlify/plugin-lighthouse"
+#	package = "@netlify/plugin-lighthouse"
 
 	# optional, fails build when a category is below a threshold
 	[plugins.inputs.thresholds]
@@ -20,5 +20,5 @@
 		best-practices = 1.0
 		seo = 1.0
 
-	[plugins.inputs]
-		output_path = "reports/lighthouse/index.html"
+#	[plugins.inputs]
+#		output_path = "reports/lighthouse/index.html"
