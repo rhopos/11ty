@@ -1,4 +1,8 @@
 # Redirects from what the browser requests to what we serve
+/purity                                                                            /
+/pokrov                                                                            /tags/pokrovskij-rajon/
+/metallurgical                                                                     /tags/metalurgijnij-rajon/
+#centers
 /reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19                /center/vpo24/reyestraciya/
 /gimnaziya-52                                                                      /center/52/
 /centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/
@@ -10,7 +14,6 @@
 /vpo24                                                                             /center/vpo24/                   301
 /shelter-plus                                                                      /center/shelter-plus/
 /zarichnij                                                                         /center/zarichnij/
-/purity                                                                            /
-/pokrov                                                                            /tags/pokrovskij-rajon/
 /leleka                                                                            /center/leleka/
-/metallurgical                                                                     /tags/metalurgijnij-rajon/
+/dobrovolchih-sil                                                                  /center/dobrovolchih-sil/
+/chervonij-hrest                                                                   /center/chervonij-hrest/
