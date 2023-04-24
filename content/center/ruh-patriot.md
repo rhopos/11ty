@@ -12,7 +12,7 @@ tags:
 |---|---|
 |Графік роботи   |  понеділок-п'ятниця 12:00-14:00 |
 |Адреса | [вул. Матросова, 77](https://goo.gl/maps/bSK1TmLiJ8e74xQN8)  |
-|Інформація | [вул. Матросова, 77](https://www.facebook.com/profile.php?id=100079732573774)  |
+|Інформація | [Facebook](https://www.facebook.com/profile.php?id=100079732573774)  |
 
 </div>
 

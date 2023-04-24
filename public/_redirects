@@ -1,11 +1,17 @@
 # Redirects from what the browser requests to what we serve
 /purity                                                                            /
+/clothes                                                                           /
+/food                                                                              /
+/kids                                                                              / 
+#districts
 /pokrov                                                                            /tags/pokrovskij-rajon/
 /metallurgical                                                                     /tags/metalurgijnij-rajon/
 /terny                                                                             /tags/ternivskij-rajon/
-/saksahan                                                                          /
+/saksahan                                                                          /tags/saksaganskij-rajon/
 #centers
 /reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19                /center/vpo24/reyestraciya/
+/centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/                   301
+/vpo24                                                                             /center/vpo24/                   301
 /gimnaziya-52                                                                      /center/52/
 /centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/
 /ponedilok-17-kvitnya-19e82a686f08407cb5e5bffed3fb66bd                             /center/vpo24/ponedilok/
@@ -13,9 +19,10 @@
 /sereda-19-kvitnya-ac0d1308e9c74749b48dcd6dc702c265                                /center/vpo24/sereda/
 /chetver-20-kvitnya-806b7c6169f9434a87439de66077d6d6                               /center/vpo24/chetver/
 /pyatnicya-21-kvitnya-41f93a697b5f466ba80052f7a2e9bb9f                             /center/vpo24/pyatnica/
-/vpo24                                                                             /center/vpo24/                   301
 /shelter-plus                                                                      /center/shelter-plus/
 /zarichnij                                                                         /center/zarichnij/
 /leleka                                                                            /center/leleka/
 /dobrovolchih-sil                                                                  /center/dobrovolchih-sil/
 /chervonij-hrest                                                                   /center/chervonij-hrest/    
+/ternivsьkij-ruh-patriot-damansьkij                                                /center/ruh-patriot-dam/
+/sunduchok                                                                         /center//sunduchok/
