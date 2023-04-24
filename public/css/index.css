@@ -97,7 +97,7 @@ main :first-child {
 }
 
 .centers--block {
-	border: 1px dashed var(--color-gray-20);
+	border: 2px dashed var(--color-gray-20);
 	padding: 10px 20px;
 	margin: 10px auto;
 }
@@ -111,7 +111,7 @@ main :first-child {
 }
 
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	border-bottom: 2px dashed var(--color-gray-20);
 }
 header:after {
 	content: "";
@@ -121,7 +121,7 @@ header:after {
 
 .links-nextprev {
 	list-style: none;
-	border-top: 1px dashed var(--color-gray-20);
+	border-top: 2px dashed var(--color-gray-20);
 	padding: 1em 0;
 }
 
@@ -245,7 +245,7 @@ a.none-decorate {
 	grid-gap: 1rem;
 }
 .grid > a > div {
-	border: 1px dashed var(--color-gray-20); 
+	border: 2px dashed var(--color-gray-20); 
 	padding: 1.5rem;
 	border-radius: 1rem;
 	min-height: 90px;
