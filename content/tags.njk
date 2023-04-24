@@ -11,7 +11,7 @@ pagination:
   addAllPagesToCollections: true
 layout: layouts/home.njk
 eleventyComputed:
-  title: Гуманітарні центри: {{ tag }}
+  title: Гуманітарні центри {{ tag }}
 permalink: /tags/{{ tag | slugify }}/
 ---
 <h1>Гуманітарні центри {{ tag }}</h1>
@@ -19,4 +19,4 @@ permalink: /tags/{{ tag | slugify }}/
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
-<p>Подивитись <a href="/tags/">всі райони</a>.</p>
+<p>Подивитись <a href="/tags/">всі центри</a>.</p>
