@@ -251,7 +251,7 @@ a.none-decorate {
 	min-height: 90px;
 }
 .grid > a > div:hover {
-	border: 1px solid var(--color-gray-20); 
+	border: 2px solid var(--color-gray-20); 
 }
 @media only screen and (max-device-width: 770px) {
 	.grid {

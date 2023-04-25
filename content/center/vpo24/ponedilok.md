@@ -12,3 +12,5 @@ description: Реєстрація на продуктові набори в кв
 - 🕒 [12:00-13:00](https://forms.gle/uVvbB4jmiCSAp6Nx5)
 - 🕒 [13:00-14:00](https://forms.gle/JPGoyDkqsQN5ZxQCA)
 - 🕒 [14:00-15:00](https://forms.gle/QnjkwqaCEF8DaVhm9)
+
+Проєкт [Центру підтримки ВПО “24”](https://vpo.wiki/center/vpo24/) родини ШЕЛТЕР ПЛЮС
