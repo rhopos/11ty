@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+draft: true
 ---
 # Гуманітарні центри в Покровському районі
 
