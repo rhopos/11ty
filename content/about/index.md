@@ -11,16 +11,3 @@ eleventyNavigation:
 
 
 Бачите помилку або щось не працює, пишіть на пошту kthopos@hey.com
-
-<ul>
-{% for post in collections.post %}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-  <ul>
-    {% for tag in post.data.tags %}
-        {% if tag !== "Покровський район" %}
-          <li><a href="/tags/{{ tag }}"> {{ tag }} </a></li>
-        {% ending %}
-    {% endfor %}
-  </ul>
-{% endfor %}
-</ul>
