@@ -1,37 +1,37 @@
 # Redirects from what the browser requests to what we serve
-/tags                                                                              /
+/tags/                                                                             /
 /purity                                                                            /
 /clothes                                                                           /
 /food                                                                              /
 /kids                                                                              /
-/voda                                                                              /center/vpo24/ 
+/voda                                                                              /center/vpo24/                   301
 #districts
-/pokrov                                                                            /tags/pokrovskij-rajon/
-/metallurgical                                                                     /tags/metalurgijnij-rajon/
-/terny                                                                             /tags/ternivskij-rajon/
-/saksahan                                                                          /tags/saksaganskij-rajon/
-/inhulets                                                                          /tags/inguleczkij-rajon/
+/pokrov                                                                            /tags/pokrovskij-rajon/          301
+/metallurgical                                                                     /tags/metalurgijnij-rajon/       301
+/terny                                                                             /tags/ternivskij-rajon/          301
+/saksahan                                                                          /tags/saksaganskij-rajon/        301
+/inhulets                                                                          /tags/inguleczkij-rajon/         301
 #centers
-/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19                /center/vpo24/reyestraciya/
+/reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19                /center/vpo24/reyestraciya/      301    
 /centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/                   301
 /vpo24                                                                             /center/vpo24/                   301
-/gimnaziya-52                                                                      /center/52/
-/centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/
-/ponedilok-17-kvitnya-19e82a686f08407cb5e5bffed3fb66bd                             /center/vpo24/ponedilok/
-/vivtorok-18-kvitnya-79021e89f6954fbf8501e2d1efc22388                              /center/vpo24/vivtorok/
-/sereda-19-kvitnya-ac0d1308e9c74749b48dcd6dc702c265                                /center/vpo24/sereda/
-/chetver-20-kvitnya-806b7c6169f9434a87439de66077d6d6                               /center/vpo24/chetver/
-/pyatnicya-21-kvitnya-41f93a697b5f466ba80052f7a2e9bb9f                             /center/vpo24/pyatnica/
-/shelter-plus                                                                      /center/shelter-plus/
-/zarichnij                                                                         /center/zarichnij/
-/leleka                                                                            /center/leleka/
-/dobrovolchih-sil                                                                  /center/dobrovolchih-sil/
-/chervonij-hrest                                                                   /center/chervonij-hrest/    
-/ternivsьkij-ruh-patriot-damansьkij                                                /center/ruh-patriot-dam/
-/sunduchok                                                                         /center//sunduchok/
+/gimnaziya-52                                                                      /center/52/                      301
+/centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/                   301 
+/ponedilok-17-kvitnya-19e82a686f08407cb5e5bffed3fb66bd                             /center/vpo24/ponedilok/         301
+/vivtorok-18-kvitnya-79021e89f6954fbf8501e2d1efc22388                              /center/vpo24/vivtorok/          301
+/sereda-19-kvitnya-ac0d1308e9c74749b48dcd6dc702c265                                /center/vpo24/sereda/            301
+/chetver-20-kvitnya-806b7c6169f9434a87439de66077d6d6                               /center/vpo24/chetver/           301
+/pyatnicya-21-kvitnya-41f93a697b5f466ba80052f7a2e9bb9f                             /center/vpo24/pyatnica/          301
+/shelter-plus                                                                      /center/shelter-plus/            301
+/zarichnij                                                                         /center/zarichnij/               301
+/leleka                                                                            /center/leleka/                  301
+/dobrovolchih-sil                                                                  /center/dobrovolchih-sil/        301
+/chervonij-hrest                                                                   /center/chervonij-hrest/         301
+/ternivsьkij-ruh-patriot-damansьkij                                                /center/ruh-patriot-dam/         301
+/sunduchok                                                                         /center/sunduchok/               301
 #
-/center/vpo24/ponedilok/                                                           /center/vpo24/
-/center/vpo24/vivtorok/                                                            /center/vpo24/
-/center/vpo24/sereda/                                                              /center/vpo24/
-/center/vpo24/chetver/                                                             /center/vpo24/
-/center/vpo24/pyatnica/                                                            /center/vpo24/
+/center/vpo24/ponedilok/                                                           /center/vpo24/                   301
+/center/vpo24/vivtorok/                                                            /center/vpo24/                   301    
+/center/vpo24/sereda/                                                              /center/vpo24/                   301
+/center/vpo24/chetver/                                                             /center/vpo24/                   301
+/center/vpo24/pyatnica/                                                            /center/vpo24/                   301
