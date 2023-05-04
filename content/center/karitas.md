@@ -4,6 +4,7 @@ description: Гуманітарна допомога для ВПО від бла
 date: 2023-01-05
 tags:
   - Центрально-міський район
+draft: true
 ---
 
 <div class="centers--block">
