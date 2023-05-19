@@ -12,6 +12,7 @@
 /saksahan                                                                          /tags/saksaganskij-rajon/        301
 /inhulets                                                                          /tags/inguleczkij-rajon/         301
 /czentral																		   /tags/czentralno-miskij-rajon/	301
+/central-city                                                                      /tags/czentralno-miskij-rajon/	301
 #centers
 /reyestraciya-na-produktovi-nabori-bebb2143e7864400946e82441bc6de19                /center/vpo24/reyestraciya/      301    
 /centr-pidtrimki-vpo-24-6569bb22dc744f9fa41bf7fbb3e477e8                           /center/vpo24/                   301
@@ -36,3 +37,12 @@
 /center/vpo24/sereda/                                                              /center/vpo24/                   301
 /center/vpo24/chetver/                                                             /center/vpo24/                   301
 /center/vpo24/pyatnica/                                                            /center/vpo24/                   301
+#
+/vpo-24                                                                            /center/vpo24/                   301
+/iniciativa-meshkanciv-krivbasu                                                    /center/iniciativa/              301
+/shira-sprava-f                                                                    /center/shira-sprava/            301
+/vidnovleno-zapis-na-produktovi-nabori                                             /center/vpo24/reyestraciya/      301
+/volonterskij-shtab                                                                /center/bezpechniy-shtab/        301
+/diia                                                                              /center/diia/                    301
+/ukrayina-yedina-krayina                                                           /center/edina/                   301
+/ternivsьkij-ruh-patriot-damansьkij                                                /center/ruh-patriot-dam/         301
