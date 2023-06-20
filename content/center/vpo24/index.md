@@ -17,11 +17,12 @@ tags:
 </div>
 
 ## Актуальні можливості 
-- [Благодійна громадська пральня](/center/vpo24/pralnya)
 - [Благодійний хостел](/center/vpo24/hostel)
 - [Пункт видачі одягу та взуття](/center/vpo24/odyag)
+- [Послуги перукаря](/center/vpo24/perukar)
 
 **Призупинено:**
+- ⏸️ [Благодійна громадська пральня](/center/vpo24/pralnya)
 - ⏸️ [Реєстрація на продуктові набори](/center/vpo24/reyestraciya)
 - ⏸️ [Видача велосипедів для ВПО](https://forms.gle/xWdQzPmk76LYjd357)
 
