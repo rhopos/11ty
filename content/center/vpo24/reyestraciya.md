@@ -4,7 +4,7 @@ description:  Реєстрація на продуктові набори в к�
 date: 2023-04-19
 ---
 
- class="centers--block">
+<div class="centers--block">
 
 |   |   |
 |---|---|
