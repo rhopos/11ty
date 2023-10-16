@@ -10,7 +10,7 @@ date: 2023-04-19
 |---|---|
 | Телефон видачі | <a href="tel:0677277830">0677277830</a>   |
 |Адреса видачі | [вул. Джона Маккейна, 24](https://goo.gl/maps/LjhkFUZHJuaAuEKt9) (Армавірська, 24)  |
-|Інформація  |  [Facebook](https://fb.com/supportcenter24) / [Telegram](https://t.me/centervpo24) |
+|Інформація  |  [Facebook](https://fb.com/supportcenter24) / [Telegram](https://t.me/centervpo24) / / [Сайт](https://shelter-plus.com/center24) |
 
 </div>
 
@@ -31,7 +31,7 @@ date: 2023-04-19
 - 2 банки м'ясної консерви (600 г)
 
 УМОВИ ОТРИМАННЯ
-1. Заповнити форму: https://forms.gle/9frUHi4E4CQk83Nr9
+1. Заповнити форму: <a href="https://forms.gle/9frUHi4E4CQk83Nr9">https://forms.gle/9frUHi4E4CQk83Nr9</a>
 2. Прийти в назначений день та час (буде написано наприкінці анкети).
 3. Мати при собі оригінали документів людини, на яку будемо оформлювати допомогу:
     - довідка ВПО
