@@ -47,7 +47,7 @@ numberOfLatestPostsToShow: 3
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Останні {{ latestPostsCount }} оновлення{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1>Останні {{ latestPostsCount }} оновлення</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -55,7 +55,7 @@ numberOfLatestPostsToShow: 3
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} інших гуманітарних центрів{% if morePosts != 1 %}s{% endif %} можна знайти <a href="/blog/">за посиланням</a>.</p>
+<p>{{ morePosts }} інших гуманітарних центрів можна знайти <a href="/blog/">за посиланням</a>.</p>
 {% endif %} 
 
 {# List every content page in the project #}
