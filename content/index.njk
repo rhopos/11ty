@@ -50,7 +50,6 @@ numberOfLatestPostsToShow: 3
 <h1>Останні {{ latestPostsCount }} оновлення</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
